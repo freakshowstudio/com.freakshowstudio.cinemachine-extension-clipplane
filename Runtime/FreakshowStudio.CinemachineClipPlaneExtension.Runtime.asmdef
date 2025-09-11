@@ -1,5 +1,5 @@
 {
-    "name": "CinemachineClipPlaneExtension.Runtime",
+    "name": "FreakshowStudio.CinemachineClipPlaneExtension.Runtime",
     "rootNamespace": "FreakshowStudio.CinemachineClipPlaneExtension.Runtime",
     "references": [
       "Unity.Cinemachine"
