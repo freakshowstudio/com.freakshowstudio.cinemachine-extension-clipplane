@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/freakshowstudio/com.freakshowstudio.cinemachine-extension-clipplane/compare/v2.0.0...v2.0.1) (2025-10-24)
+
+
+### Bug Fixes
+
+* Add package author ([83db274](https://github.com/freakshowstudio/com.freakshowstudio.cinemachine-extension-clipplane/commit/83db274678b0a4d6349fb88d8ac4ec629157d125))
+
 # [2.0.0](https://github.com/freakshowstudio/com.freakshowstudio.cinemachine-extension-clipplane/compare/v1.0.0...v2.0.0) (2025-09-11)
 
 
